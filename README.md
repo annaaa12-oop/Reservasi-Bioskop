@@ -13,7 +13,7 @@ Project OOP Python sederhana untuk reservasi tiket bioskop.
 ## Fitur
 - Pemesanan kursi berdasarkan film dan studio
 - Validasi kursi yang sudah dipesan atau tidak tersedia
-- Harga tiket berbeda untuk tiap tipe studio (Reguler, IMAX)
+- Harga tiket berbeda untuk tiap tipe studio (Reguler, Premier, IMAX)
 - Perhitungan total pembayaran pelanggan
 
 ## Penerapan Konsep OOP
